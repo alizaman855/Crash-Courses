@@ -19,7 +19,7 @@ Each crash course is organized into its own directory within this repository. Yo
 Feel free to clone or download this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/crash-courses.git
+git clone https://github.com/alizaman855/Crash-Courses.git
 ```
 Navigate to the directory of the crash course you're interested in and start learning!
 
@@ -27,6 +27,6 @@ Navigate to the directory of the crash course you're interested in and start lea
 Contributions are welcome! If you'd like to add a crash course or improve existing content, fork this repository and submit a pull request.
 
 ## 📧 Contact
-For questions or suggestions, feel free to reach out to me at your-email@example.com.
+For questions or suggestions, feel free to reach out to me at mzamanali637@gmail.com .
 
 Happy learning! 🌱
